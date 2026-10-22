@@ -1,0 +1,44 @@
+{
+    "learning_rate_experiments": {
+        "alpha_0.02": {
+            "final_reward": 83.6,
+            "final_steps": 15.8
+        },
+        "alpha_0.1": {
+            "final_reward": 85.3,
+            "final_steps": 14.766666666666667
+        },
+        "alpha_0.5": {
+            "final_reward": 84.53333333333333,
+            "final_steps": 14.866666666666667
+        }
+    },
+    "discount_factor_experiments": {
+        "gamma_0.7": {
+            "final_reward": 84.36666666666666,
+            "final_steps": 15.166666666666666
+        },
+        "gamma_0.9": {
+            "final_reward": 84.4,
+            "final_steps": 15.0
+        },
+        "gamma_0.99": {
+            "final_reward": 85.3,
+            "final_steps": 14.766666666666667
+        }
+    },
+    "epsilon_decay_experiments": {
+        "Fast (0.97)": {
+            "final_reward": 87.0,
+            "final_steps": 14.0
+        },
+        "Balanced (0.992)": {
+            "final_reward": 85.3,
+            "final_steps": 14.766666666666667
+        },
+        "Slow (0.998)": {
+            "final_reward": 50.53333333333333,
+            "final_steps": 28.333333333333332
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Logistic Regression": {
+        "accuracy": 0.9256,
+        "f1_score": 0.9245270826360539,
+        "train_time": 14.914047241210938
+    },
+    "Random Forest": {
+        "accuracy": 0.9689,
+        "f1_score": 0.9687008652062042,
+        "train_time": 12.518535614013672
+    },
+    "Deep Neural Network (DNN)": {
+        "accuracy": 0.9793,
+        "f1_score": 0.9791995765422865,
+        "train_time": 49.569549322128296
+    }
+}
